@@ -1,0 +1,2 @@
+# dnSpyUpdater
+Updater for dnSpy.
